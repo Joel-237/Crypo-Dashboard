@@ -1,0 +1,7 @@
+python
+requests
+skleran
+streamlit
+plotly
+pandas
+numpy
