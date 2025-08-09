@@ -1,7 +1,5 @@
-python
-requests
-skleran
-streamlit
-plotly
-pandas
-numpy
+fastapi
+uvicorn
+transformers
+torch
+pymysql
