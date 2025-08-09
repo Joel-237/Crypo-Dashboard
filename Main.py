@@ -17,10 +17,10 @@ import time
 
 # ================= CONFIGURATION =================
 DB_CONFIG = {
-    "host": "TON_SERVEUR_MYSQL",
-    "user": "TON_UTILISATEUR",
-    "password": "TON_MOT_DE_PASSE",
-    "database": "TA_BASE",
+    "host": "sql208.infinityfree.com",
+    "user": "if0_39663327",
+    "password": "joelleroi",
+    "database": "if0_39663327_softy",
     "cursorclass": pymysql.cursors.DictCursor
 }
 
